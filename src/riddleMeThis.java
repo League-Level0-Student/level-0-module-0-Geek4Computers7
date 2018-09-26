@@ -6,7 +6,7 @@ public class riddleMeThis {public static void main(String[] args) {
 	
 		String ohyea = JOptionPane.showInputDialog("What is your name young earthling");
 		if (ohyea.equals("Human number 174509927"))
-		{
+		{	JOptionPane.showMessageDialog("yes now everyone will die");
 			full = full +1;
 		}
 		else
@@ -15,7 +15,7 @@ public class riddleMeThis {public static void main(String[] args) {
 			
 		}
 		
-		JOptionPane.showMessageDialog(null, "MMMMM");
+		JOptionPane.showMessageDialog(null, "Hold on ajdwdmew, We still have not tortured the humans");
 
 }
 }
